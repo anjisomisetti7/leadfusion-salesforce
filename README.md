@@ -210,7 +210,10 @@ Lead Conversion
 
 # 👨‍💻 Developed By
 
-LeadFusion AI Development Team
+LeadFusion AI Development Team:-
+
+S Sri Anjaneyulu
+Y NagaLakshmi
 
 ---
 
