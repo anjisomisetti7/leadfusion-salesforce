@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Lead Generation System",
+  "description": "Enterprise AI Lead Generation Platform with Salesforce CRM Sync, Intelligent Forms, AI Lead Scoring, Flow Builder, and Advanced Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
